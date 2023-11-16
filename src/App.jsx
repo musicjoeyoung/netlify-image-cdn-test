@@ -3,10 +3,12 @@ function App() {
 
   return (
     <>
-Netlify Image CDN Beta - Test
+<h1>Netlify Image CDN Beta - Test</h1>
 <img src="/cat1.jpg"/>
-<img src="https://superlative-brigadeiros-2fab95.netlify.app/.netlify/images/cat1.jpg"/>
+<img src="https://superlative-brigadeiros-2fab95.netlify.app/.netlify/images?url=cat1.jpg"/>
+<img src="/largeFile.jpeg"/>
     </>
+    
   )
 }
 
