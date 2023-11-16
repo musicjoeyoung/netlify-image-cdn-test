@@ -7,7 +7,7 @@ function App() {
 <img src="/cat1.jpg"/>
 <img src="https://superlative-brigadeiros-2fab95.netlify.app/.netlify/images?url=cat1.jpg"/>
 <img src="/largeFile.jpeg"/>
-<img src="https://superlative-brigadeiros-2fab95.netlify.app/.netlify/images?url=largeFile.jpeg"/>
+<img src="https://superlative-brigadeiros-2fab95.netlify.app/.netlify/images?url=largeFile.jpeg&fm=webp"/>
 
     </>
     
